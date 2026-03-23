@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "lhv_resume.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "lhv_resume"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "a18d3e222c7a6044",
   "lastOpenFiles": [
+    "README.md",
     "lhv_resume.md"
   ]
 }
